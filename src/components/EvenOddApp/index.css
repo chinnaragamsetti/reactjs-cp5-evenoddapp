@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(todown, #ff6e7f, #bfe9ff);
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 30px;
+  color: #0f172a;
+}
+.oddevenstatus {
+  font-size: 20px;
+  color: #334155;
+}
+.para {
+  font-size: 10px;
+  color: #334155;
+}
+.button {
+  font-size: 15px;
+  color: #334155;
+  border: 2px solid #1e293b;
+  padding: 5px;
+}
